@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Laborator6_Endri_Gjini\Laborator6_Endri_Gjini\bin\Debug\net8.0-windows\Laborator6_Endri_Gjini.exe
+C:\Users\User\source\repos\Laborator6_Endri_Gjini\Laborator6_Endri_Gjini\bin\Debug\net8.0-windows\Laborator6_Endri_Gjini.deps.json
+C:\Users\User\source\repos\Laborator6_Endri_Gjini\Laborator6_Endri_Gjini\bin\Debug\net8.0-windows\Laborator6_Endri_Gjini.runtimeconfig.json
+C:\Users\User\source\repos\Laborator6_Endri_Gjini\Laborator6_Endri_Gjini\bin\Debug\net8.0-windows\Laborator6_Endri_Gjini.dll
+C:\Users\User\source\repos\Laborator6_Endri_Gjini\Laborator6_Endri_Gjini\bin\Debug\net8.0-windows\Laborator6_Endri_Gjini.pdb
+C:\Users\User\source\repos\Laborator6_Endri_Gjini\Laborator6_Endri_Gjini\obj\Debug\net8.0-windows\Laborator6_Endri_Gjini.Form1.resources
+C:\Users\User\source\repos\Laborator6_Endri_Gjini\Laborator6_Endri_Gjini\obj\Debug\net8.0-windows\Laborator6_Endri_Gjini.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Laborator6_Endri_Gjini\Laborator6_Endri_Gjini\obj\Debug\net8.0-windows\Laborator6_Endri_Gjini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Laborator6_Endri_Gjini\Laborator6_Endri_Gjini\obj\Debug\net8.0-windows\Laborator6_Endri_Gjini.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Laborator6_Endri_Gjini\Laborator6_Endri_Gjini\obj\Debug\net8.0-windows\Laborator6_Endri_Gjini.AssemblyInfo.cs
+C:\Users\User\source\repos\Laborator6_Endri_Gjini\Laborator6_Endri_Gjini\obj\Debug\net8.0-windows\Laborator6_Endri_Gjini.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Laborator6_Endri_Gjini\Laborator6_Endri_Gjini\obj\Debug\net8.0-windows\Laborator6_Endri_Gjini.dll
+C:\Users\User\source\repos\Laborator6_Endri_Gjini\Laborator6_Endri_Gjini\obj\Debug\net8.0-windows\refint\Laborator6_Endri_Gjini.dll
+C:\Users\User\source\repos\Laborator6_Endri_Gjini\Laborator6_Endri_Gjini\obj\Debug\net8.0-windows\Laborator6_Endri_Gjini.pdb
+C:\Users\User\source\repos\Laborator6_Endri_Gjini\Laborator6_Endri_Gjini\obj\Debug\net8.0-windows\Laborator6_Endri_Gjini.genruntimeconfig.cache
+C:\Users\User\source\repos\Laborator6_Endri_Gjini\Laborator6_Endri_Gjini\obj\Debug\net8.0-windows\ref\Laborator6_Endri_Gjini.dll
